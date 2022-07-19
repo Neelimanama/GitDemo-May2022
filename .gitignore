@@ -1,0 +1,11 @@
+/target/test-classes/App_Tests.class
+/target/classes/uk/axone/devintest/git/Application.class
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/GitDemoMay2022-1.0-SNAPSHOT.jar
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+
+/.idea/vcs.xml
+/target/maven-archiver/pom.properties
+/target/*
